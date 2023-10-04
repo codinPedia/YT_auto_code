@@ -1,2 +1,8 @@
-# YT_auto_code
-Auto code for YouTube coding videos
+# YT Auto Code
+
+*Automate coding stage of your YouTube videos!*
+
+### Controllers
+- **Start**: `ctrl+shift+1`
+- **End**: `ctrl+shift+0`
+
